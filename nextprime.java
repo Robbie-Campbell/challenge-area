@@ -1,3 +1,4 @@
+// https://edabit.com/challenge/vYQogxrcQBEMr7y3F
 public class nextprime {
 
     public static int isPrime(int num) 
