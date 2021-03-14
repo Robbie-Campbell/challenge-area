@@ -1,6 +1,6 @@
 // https://edabit.com/challenge/vYQogxrcQBEMr7y3F
-public class nextprime {
-
+public class NextPrime 
+{
     public static int isPrime(int num) 
     {
         for (int i = 2; i < num; i++) 
@@ -14,9 +14,7 @@ public class nextprime {
         }
         return num;
     }
-
     public static void main(String[] args) {
-        System.out.println(isPrime(4));
+        System.out.println(isPrime(14));
     }
-
 }
