@@ -1,3 +1,5 @@
+package java;
+
 public class InequalityCheck
 {
     public static boolean correctSigns(String str)

@@ -1,3 +1,5 @@
+package java;
+
 public class Discount 
 {
     public static double discountCalculator(int value, int discPercentage)

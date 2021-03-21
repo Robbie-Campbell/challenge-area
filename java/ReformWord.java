@@ -1,3 +1,5 @@
+package java;
+
 //https://edabit.com/challenge/R3PnRquBPADEqDxZg
 public class ReformWord
 {

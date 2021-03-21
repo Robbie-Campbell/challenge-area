@@ -1,3 +1,5 @@
+package java;
+
 public class CanBuild 
 {
     public static boolean canBuild(String[] words)

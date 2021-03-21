@@ -1,3 +1,5 @@
+package java;
+
 // https://edabit.com/challenge/sLasdN8jqehbeqHtT
 
 public class onetimecode{

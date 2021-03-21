@@ -1,3 +1,5 @@
+package java;
+
 //https://edabit.com/challenge/sPz2LcPZyAiBHRgwX
 public class FormatPhone {
     public static String formatPhoneNumber(int[] nums)

@@ -1,3 +1,5 @@
+package java;
+
 // https://edabit.com/challenge/5mANMR3X6gEfWephD
 import java.util.Arrays;
 

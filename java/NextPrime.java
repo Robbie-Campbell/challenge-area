@@ -1,3 +1,5 @@
+package java;
+
 // https://edabit.com/challenge/vYQogxrcQBEMr7y3F
 public class NextPrime 
 {

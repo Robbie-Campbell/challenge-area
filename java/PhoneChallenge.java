@@ -1,3 +1,5 @@
+package java;
+
 // https://edabit.com/challenge/8NZaLdJBkhZCgNBc7
 public class PhoneChallenge
 {
