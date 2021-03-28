@@ -1,4 +1,4 @@
-package java;
+package java_work;
 
 // https://edabit.com/challenge/8NZaLdJBkhZCgNBc7
 public class PhoneChallenge

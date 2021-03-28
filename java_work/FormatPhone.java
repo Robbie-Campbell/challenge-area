@@ -1,4 +1,4 @@
-package java;
+package java_work;
 
 //https://edabit.com/challenge/sPz2LcPZyAiBHRgwX
 public class FormatPhone {

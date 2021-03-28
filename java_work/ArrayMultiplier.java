@@ -1,4 +1,4 @@
-package java;
+package java_work;
 
 // https://edabit.com/challenge/5mANMR3X6gEfWephD
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package java;
+package java_work;
 
 public class Discount 
 {
