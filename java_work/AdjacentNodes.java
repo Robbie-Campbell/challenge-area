@@ -10,7 +10,7 @@ public class AdjacentNodes
 {
     public static boolean adjacent(int[][] graph, int node1, int node2) 
     {
-        return graph[node1][node2] == 1 ? true : false;
+        return graph[node1][node2] == 1;
     }
 
     public static void main(String[] args)
