@@ -1,3 +1,5 @@
+// https://edabit.com/challenge/uts8XsD5zGHdHr32u
+
 function toCamelCase(str) {
     var arr = str.split("_");
     for (i = 1; i < arr.length; i++)
