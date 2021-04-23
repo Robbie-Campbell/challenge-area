@@ -1,4 +1,3 @@
-package java_work;
 //https://edabit.com/challenge/4DKpZPfSgyExdwirC
 
 public class LinearEquation {

@@ -1,5 +1,3 @@
-package java_work;
-
 //https://edabit.com/challenge/R3PnRquBPADEqDxZg
 public class ReformWord
 {

@@ -1,5 +1,3 @@
-package java_work;
-
 // https://edabit.com/challenge/vYQogxrcQBEMr7y3F
 public class NextPrime 
 {

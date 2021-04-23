@@ -1,5 +1,3 @@
-package java_work;
-
 public class Calculator
 {
     public static int calculator(int num1, char operator, int num2) 

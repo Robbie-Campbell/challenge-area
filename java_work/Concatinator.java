@@ -1,5 +1,3 @@
-package java_work;
-
 //https://edabit.com/challenge/ynzo3DeHCmAXLtpwe
 // Yes, this is especially easy
 

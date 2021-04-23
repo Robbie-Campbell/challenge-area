@@ -4,8 +4,6 @@
     is very very easy.
 */
 
-package java_work;
-
 public class AdjacentNodes
 {
     public static boolean adjacent(int[][] graph, int node1, int node2) 

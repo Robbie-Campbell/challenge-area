@@ -1,5 +1,3 @@
-package java_work;
-
 public class GetWordCount
 {
     public static int countWords(String s) {

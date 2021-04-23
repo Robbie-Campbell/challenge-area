@@ -1,5 +1,3 @@
-package java_work;
-
 import java.util.Arrays;
 
 public class EuclidsAlgorithm {

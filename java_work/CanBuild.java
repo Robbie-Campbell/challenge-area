@@ -1,5 +1,3 @@
-package java_work;
-
 public class CanBuild 
 {
     public static boolean canBuild(String[] words)

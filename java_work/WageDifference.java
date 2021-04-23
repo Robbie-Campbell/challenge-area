@@ -1,5 +1,3 @@
-package java_work;
-
 // https://edabit.com/challenge/akHQKSkHT26TuA7Ka
 
 public class WageDifference 

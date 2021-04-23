@@ -1,5 +1,3 @@
-package java_work;
-
 public class SevenBoom
 {
     public static String sevenBoom(int[] values)

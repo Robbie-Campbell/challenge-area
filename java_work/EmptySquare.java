@@ -1,5 +1,3 @@
-package java_work;
-
 // https://edabit.com/challenge/3GvRKZPF2NRPz3DgQ
 
 public class EmptySquare {

@@ -1,5 +1,3 @@
-package java_work;
-
 import java.util.Arrays;
 
 // https://edabit.com/challenge/KWbrmP9uYSnYtwkAB

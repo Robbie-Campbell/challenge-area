@@ -1,5 +1,3 @@
-package java_work;
-
 public class InequalityCheck
 {
     public static boolean correctSigns(String str)

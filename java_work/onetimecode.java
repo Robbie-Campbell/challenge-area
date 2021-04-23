@@ -1,5 +1,3 @@
-package java_work;
-
 // https://edabit.com/challenge/sLasdN8jqehbeqHtT
 
 public class onetimecode{
